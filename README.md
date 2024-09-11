@@ -12,11 +12,11 @@ You can model transform-limited optical pulse propagation in dispersive nonlinea
 
 ## File Overview:
 
-`SSF_Propagation.py : Transform-limited optical pulse propagation in dispersive nonlinear medium.
+`SSF_Propagation.py` : Transform-limited optical pulse propagation in dispersive nonlinear medium.
 
-`SSF_Dependencies.py: Some functions calculating the gain of the SOA given the wavelength and the input power at the entrance. (As per Smart Design Manual)
+`SSF_Dependencies.py`: Some functions calculating the gain of the SOA given the wavelength and the input power at the entrance. (As per Smart Design Manual)
 
-`SSF_Laser_Sim.ipynb: Simulation of an FDML Laser - Work in progress...
+`SSF_Laser_Sim.ipynb`: Simulation of an FDML Laser - Work in progress...
 
 ## Authors:
 
