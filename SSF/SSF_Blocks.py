@@ -2,7 +2,9 @@
 """
 Created on Mon Jul 22 13:41:55 2024
 
-@author: 20235303
+@author: Lyuben Davidov
+@email1: l.davidov@tue.nl
+@email2: ljubo.davidov@tue.nl
 """
 
 
